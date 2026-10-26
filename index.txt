@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Trabajo Practico de PowerShell</title>
+</head>
+<body>
+    <h1>Trabajo Practico de PowerShell</h1>
+
+    <h2>Informacion del sistema</h2>
+
+    <p>Alumno: Demian</p>
+    <p>Materia: Seguridad Informatica</p>
+
+    <p>
+        Este trabajo utiliza un script de PowerShell para obtener
+        la version de PowerShell, la politica de ejecucion,
+        la informacion del sistema operativo y los datos
+        generales de la computadora mediante systeminfo.
+    </p>
+
+    <p>
+        Archivo del trabajo:
+        <a href="InfoPC.ps1">Descargar script InfoPC.ps1</a>
+    </p>
+</body>
+</html>
